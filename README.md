@@ -45,7 +45,7 @@ python -m flask run
 
 ## Overview
 
-<img src="https://github.com/sabari205/Equation-solver/blob/master/images/architecture.png" alt="Architecture" height = "600" width = "600">
+
 
 - The [**Frontend**](https://github.com/sabari205/Equation-Solver/tree/master/src) part has been developed using `ReactJS`. Here the user enters the image either by uploading or by using the sketchpad. The image is encoded to base64 format and sent to the REST-API as a POST request.
 
